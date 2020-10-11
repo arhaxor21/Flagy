@@ -1,3 +1,8 @@
+### Flagy
+![image](https://user-images.githubusercontent.com/66105746/95692643-de311480-0c44-11eb-8820-d7371e6cc117.png)
+
+This a Complete tool contained box for Capture The Flag competition. Mostly I have inserted all the necessary tools. Some of the people have some trouble installing tools for the beginning stages.
+
 ## Cryptography
 
 - FeatherDuster - An automated, modular cryptanalysis tool.
@@ -94,3 +99,6 @@
 
 - Gobuster - Brute forcing directory
 
+### Licensing
+
+**Flagy** is licensed under the [GNU General Public License v3.0](LICENSE).
