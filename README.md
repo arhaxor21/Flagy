@@ -1,96 +1,96 @@
 ## Cryptography
 
-- [FeatherDuster] - An automated, modular cryptanalysis tool.
+- FeatherDuster - An automated, modular cryptanalysis tool.
 
-- [PkCrack]- A tool for Breaking PkZip-encryption.
+- PkCrack- A tool for Breaking PkZip-encryption.
 
-- [RSACTFTool] - A tool for recovering RSA private key with various attack.
+- RSACTFTool - A tool for recovering RSA private key with various attack.
 
-- [RSATool] - Generate private key with knowledge of p and q.
+- RSATool - Generate private key with knowledge of p and q.
 
-- [XORTool] - A tool to analyze multi-byte xor cipher.
+- XORTool - A tool to analyze multi-byte xor cipher.
   
-- [Hash Extender] - A utility tool for performing hash length
+- Hash Extender - A utility tool for performing hash length
 
 ## Forensics
 
-- [Aircrack-Ng] - Crack 802.11 WEP and WPA-PSK keys.
+- Aircrack-Ng - Crack 802.11 WEP and WPA-PSK keys.
  
-- [Audacity] - Analyze sound files (mp3, m4a, whatever).
+- Audacity - Analyze sound files (mp3, m4a, whatever).
 
 
-- [CFF Explorer] - PE Editor.
+- CFF Explorer - PE Editor.
 
-- [Creddump] - Dump windows credentials.
+- Creddump - Dump windows credentials.
 
-- [Exif Tool] - Read, write and edit file metadata.
+- Exif Tool - Read, write and edit file metadata.
 
-- [Bkhive and Samdump2] — Dump SYSTEM and SAM files.
+- Bkhive and Samdump2 — Dump SYSTEM and SAM files.
 
-- [Foremost] - Extract particular kind of files using headers.
+- Foremost - Extract particular kind of files using headers.
   
-- [Pngcheck] - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
+- Pngcheck - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
 
-- [Volatility] To investigate 
+- Volatility To investigate 
 
 
 ## Reversing
 
-- [ApkTool] - Android Decompiler.
+- ApkTool - Android Decompiler.
 
-- [Barf] - Binary Analysis and Reverse engineering Framework.
+- Barf - Binary Analysis and Reverse engineering Framework.
 
-- [Binary Ninja] - Binary analysis framework.
+- Binary Ninja - Binary analysis framework.
 
-- [BinWalk] - Analyze, reverse engineer, and extract firmware images.
+- BinWalk - Analyze, reverse engineer, and extract firmware images.
 
-- [Boomerang] - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
+- Boomerang - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
 
-- [GDB] - The GNU project debugger.
+- GDB - The GNU project debugger.
 
-- [GEF] - GDB plugin.
+- GEF - GDB plugin.
 
-- [Ghidra] - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
+- Ghidra - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
 
-- [Hopper] - Reverse engineering tool (disassembler) for OSX and Linux.
+- Hopper - Reverse engineering tool (disassembler) for OSX and Linux.
 
-- [IDA Pro] - Most used Reversing software.
+- IDA Pro - Most used Reversing software.
 
-- [Jadx] - Decompile Android files.
+- Jadx - Decompile Android files.
 
-- [Pwndbg] - A GDB plugin that provides a suite of utilities to hack around GDB easily.
+- Pwndbg - A GDB plugin that provides a suite of utilities to hack around GDB easily.
 
-- [radare2] - A portable reversing framework.
+- radare2 - A portable reversing framework.
 
 ## Steganography
 
 
 
-- [Exiftool] - Read and write meta information in files.
+- Exiftool - Read and write meta information in files.
 
-- [Pngtools] - For various analysis related to PNGs.
+- Pngtools - For various analysis related to PNGs.
  
-- [Stegbreak] - Launches brute-force dictionary attacks on JPG image.
+- Stegbreak - Launches brute-force dictionary attacks on JPG image.
 
-- [StegCracker] - Steganography brute-force utility to uncover hidden data inside files.
+- StegCracker - Steganography brute-force utility to uncover hidden data inside files.
 
-- [stegextract] - Detect hidden files and text in images.
+- stegextract - Detect hidden files and text in images.
 
-- [Steghide] - Hide data in various kind of images.
+- Steghide - Hide data in various kind of images.
 
-- [Stegsolve] - Apply various steganography techniques to images.
+- Stegsolve - Apply various steganography techniques to images.
 
-- [Zsteg] - PNG/BMP analysis.
+- Zsteg - PNG/BMP analysis.
 
-- [Sonic Visulaizer] - Audio spectrum
+- Sonic Visulaizer - Audio spectrum
 
 ## Web
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite] - A graphical tool to testing website security.
+- BurpSuite - A graphical tool to testing website security.
 
-- [SQLMap] - Automatic SQL injection and database takeover tool.
+- SQLMap - Automatic SQL injection and database takeover tool.
 
-- [Gobuster] - Brute forcing directory
+- Gobuster - Brute forcing directory
 
