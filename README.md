@@ -9,22 +9,16 @@ This a Complete tool contained box for Capture The Flag competition. Mostly I ha
 
 - PkCrack- A tool for Breaking PkZip-encryption.
 
-- RSACTFTool - A tool for recovering RSA private key with various attack.
-
 - RSATool - Generate private key with knowledge of p and q.
 
 - XORTool - A tool to analyze multi-byte xor cipher.
   
-- Hash Extender - A utility tool for performing hash length
 
 ## Forensics
 
 - Aircrack-Ng - Crack 802.11 WEP and WPA-PSK keys.
  
 - Audacity - Analyze sound files (mp3, m4a, whatever).
-
-
-- CFF Explorer - PE Editor.
 
 - Creddump - Dump windows credentials.
 
@@ -45,19 +39,11 @@ This a Complete tool contained box for Capture The Flag competition. Mostly I ha
 
 - Barf - Binary Analysis and Reverse engineering Framework.
 
-- Binary Ninja - Binary analysis framework.
-
 - BinWalk - Analyze, reverse engineer, and extract firmware images.
-
-- Boomerang - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
 
 - GDB - The GNU project debugger.
 
-- GEF - GDB plugin.
-
 - Ghidra - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
-
-- Hopper - Reverse engineering tool (disassembler) for OSX and Linux.
 
 - IDA Pro - Most used Reversing software.
 
@@ -68,8 +54,6 @@ This a Complete tool contained box for Capture The Flag competition. Mostly I ha
 - radare2 - A portable reversing framework.
 
 ## Steganography
-
-
 
 - Exiftool - Read and write meta information in files.
 
@@ -90,8 +74,6 @@ This a Complete tool contained box for Capture The Flag competition. Mostly I ha
 - Sonic Visulaizer - Audio spectrum
 
 ## Web
-
-*Tools used for solving Web challenges*
 
 - BurpSuite - A graphical tool to testing website security.
 
