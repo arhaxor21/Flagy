@@ -43,10 +43,10 @@ sudo apt-get install radare2
 sudo gem install zsteg
 #directory for storing the tools"CTF-Tools"
 mkdir ~/CTF-Tools/
+cd ~/CTF-Tools/
 
 banner "All files are stored in CTF-Tools"
 mkdir crypto/ forensic/ reversing/ stegno/ web/ networking/
-cd ~/CTF-Tools/
 echo "You can see the tools in the directory"
 
 banner "cryptography"
