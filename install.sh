@@ -46,6 +46,7 @@ mkdir ~/CTF-Tools/
 
 banner "All files are stored in CTF-Tools"
 mkdir crypto/ forensic/ reversing/ stegno/ web/ networking/
+cd ~/CTF-Tools/
 echo "You can see the tools in the directory"
 
 banner "cryptography"
