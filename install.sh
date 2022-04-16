@@ -13,34 +13,34 @@ banner() {
         echo "+------------------------------------------+"
 }
 
-sudo apt-get update && sudo apt-get upgrade
+apt-get update && apt-get upgrade
 
 #requirements for the box
-sudo apt-get hxtool
-sudo apt-get install wine
+apt-get hxtool
+apt-get install wine
 dpkg --add-architecture i386 && apt-get update &&\napt-get install wine32
-sudo apt-get install gdb
-sudo apt-get install binwalk
-sudo apt-get install pdfcrack
-sudo apt-get install hexedit
-sudo apt-get install audacity
-sudo apt-get install foremost
-sudo apt-get install pngcheck
-sudo apt-get install pngtools
-sudo apt-get install exiftool
-sudo apt-get install gobuster
-sudo apt-get install sqlmap
-sudo apt-get install git build-essential cmake qt5-default libcapstone-dev flex bison
-sudo apt-get install libgmp3-dev libmpc-dev
-sudo apt-get install python3-pip
-sudo pip3 install xortool 
-sudo apt-get install ncrack
-sudo apt-get install aircrack-ng
-sudo apt-get install samdump2 bkhive
-sudo apt-get install default-jdk
-sudo apt-get install jadx
-sudo apt-get install radare2
-sudo gem install zsteg
+apt-get install gdb
+apt-get install binwalk
+apt-get install pdfcrack
+apt-get install hexedit
+apt-get install audacity
+apt-get install foremost
+apt-get install pngcheck
+apt-get install pngtools
+apt-get install exiftool
+apt-get install gobuster
+apt-get install sqlmap
+apt-get install git build-essential cmake qt5-default libcapstone-dev flex bison
+apt-get install libgmp3-dev libmpc-dev
+apt-get install python3-pip
+pip3 install xortool 
+apt-get install ncrack
+apt-get install aircrack-ng
+apt-get install samdump2 bkhive
+apt-get install default-jdk
+apt-get install jadx
+apt-get install radare2
+gem install zsteg
 #directory for storing the tools"CTF-Tools"
 mkdir ~/CTF-Tools/
 cd ~/CTF-Tools/
@@ -97,8 +97,8 @@ banner "Stegnography"
 cd ~/CTF-Tools/stegno/ 
 
 banner "stegextract"
-sudo curl https://raw.githubusercontent.com/evyatarmeged/stegextract/master/stegextract > /usr/local/bin/stegextract
-sudo chmod +x /usr/local/bin/stegextract
+curl https://raw.githubusercontent.com/evyatarmeged/stegextract/master/stegextract > /usr/local/bin/stegextract
+chmod +x /usr/local/bin/stegextract
 echo "installed"
 cd ~/CTF-Tools/stegno/ 
 
